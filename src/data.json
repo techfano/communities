@@ -1,0 +1,26 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "title": "title",
+            "description": "description",
+            "cover": {
+                "type": "video",
+                "origin": "youtube",
+                "id": "FJvlEtoFPKw"
+            },
+            "content": []
+        },
+        {
+            "id": 2,
+            "title": "title2",
+            "description": "description2",
+            "cover": {
+                "type": "video",
+                "origin": "youtube",
+                "id": "B97uTZBw_ZU"
+            },
+            "content": []
+        }
+    ]
+}
