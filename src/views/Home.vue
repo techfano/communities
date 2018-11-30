@@ -1,19 +1,19 @@
 <template>
   <div class="home">
     <Header />
-    <Articles title="Articulos"/>
+    <Communities title="Comunidades"/>
   </div>
 </template>
 
 <script>
 // @ is an alias to /src
 import Header from '@/components/Header.vue';
-import Articles from '@/components/Articles.vue';
+import Communities from '@/components/Communities.vue';
 
 export default {
   name: 'home',
   components: {
-    Articles,
+    Communities,
     Header
   },
 };

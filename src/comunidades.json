@@ -1,0 +1,1540 @@
+[
+  {
+    "score": 1.0,
+    "id": 16677212,
+    "name": "Agile Perú",
+    "status": "active",
+    "link": "https://www.meetup.com/es/agileperu/",
+    "urlname": "agileperu",
+    "description": "<p>Agile Perú es la comunidad de seguidores de metodologías ágiles en el Perú. Está conformado por estudiantes y profesionales interesados en difundir nuevas forma de desarrollar software. El objetivo de la comunidad es difundir el uso de metodologías ágiles en el Perú, fomentando su aplicación, enseñanza y brindando apoyo a los que recién comienzan, a través de la lista de interés, las reuniones mensuales gratuitas y los eventos que organizamos.</p>",
+    "created": 1409340054000,
+    "city": "Lima",
+    "untranslated_city": "Lima",
+    "country": "PE",
+    "localized_country_name": "Perú",
+    "localized_location": "Lima, Perú",
+    "state": "",
+    "join_mode": "open",
+    "visibility": "public",
+    "lat": -12.07,
+    "lon": -77.05,
+    "members": 3893,
+    "organizer": {
+      "id": 12391146,
+      "name": "Freddy Cahuas Zenteno",
+      "bio": "https://about.me/frecaze",
+      "photo": {
+        "id": 80877622,
+        "photo_link": "https://secure.meetupstatic.com/photos/member/e/1/1/6/member_80877622.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/e/1/1/6/thumb_80877622.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      }
+    },
+    "who": "agilistas",
+    "group_photo": {
+      "id": 403572422,
+      "highres_link": "https://secure.meetupstatic.com/photos/event/3/0/8/6/highres_403572422.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/3/0/8/6/600_403572422.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/3/0/8/6/thumb_403572422.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "key_photo": {
+      "id": 432141303,
+      "highres_link": "https://secure.meetupstatic.com/photos/event/5/3/3/7/highres_432141303.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/5/3/3/7/600_432141303.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/5/3/3/7/thumb_432141303.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "timezone": "America/Lima",
+    "next_event": {
+      "id": "256630168",
+      "name": "Todo lo que puedes aprender con Management 3.0",
+      "yes_rsvp_count": 149,
+      "time": 1543622400000,
+      "utc_offset": -18000000
+    },
+    "category": {
+      "id": 34,
+      "name": "Tecnología",
+      "shortname": "tech",
+      "sort_name": "Tecnología"
+    },
+    "meta_category": {
+      "id": 292,
+      "shortname": "tech",
+      "name": "Tecnología",
+      "sort_name": "Tecnología",
+      "photo": {
+        "id": 450131949,
+        "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "category_ids": [
+        34
+      ]
+    }
+  },
+  {
+    "score": 1.0,
+    "id": 29661071,
+    "name": "LimaJS",
+    "status": "active",
+    "link": "https://www.meetup.com/es/LimaJS/",
+    "urlname": "LimaJS",
+    "description": "<p>Grupo de usuarios de JavaScript en Lima, Perú.</p>\n<p>Tratamos de reunirnos una vez al mes. Estas reuniones son libres, todxs son bienvenidxs. No se requiere invitación o nivel de conocimiento.</p>\n<p><br></p>\n<p>Más info acá: <a href=\"https://limajs.org/\">https://limajs.org/</a><br></p>",
+    "created": 1535553207000,
+    "city": "Lima",
+    "untranslated_city": "Lima",
+    "country": "PE",
+    "localized_country_name": "Perú",
+    "localized_location": "Lima, Perú",
+    "state": "",
+    "join_mode": "open",
+    "visibility": "public",
+    "lat": -12.07,
+    "lon": -77.05,
+    "members": 918,
+    "organizer": {
+      "id": 12768260,
+      "name": "Lupo Montero",
+      "bio": "JavaScripter. Director of Technology @ Laboratoria.",
+      "photo": {
+        "id": 266860680,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/9/e/e/8/highres_266860680.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/9/e/e/8/member_266860680.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/9/e/e/8/thumb_266860680.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      }
+    },
+    "who": "JavaScripters",
+    "group_photo": {
+      "id": 474157303,
+      "highres_link": "https://secure.meetupstatic.com/photos/event/9/1/b/7/highres_474157303.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/9/1/b/7/600_474157303.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/9/1/b/7/thumb_474157303.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "key_photo": {
+      "id": 474156732,
+      "highres_link": "https://secure.meetupstatic.com/photos/event/8/f/7/c/highres_474156732.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/8/f/7/c/600_474156732.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/8/f/7/c/thumb_474156732.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "timezone": "America/Lima",
+    "next_event": {
+      "id": "255218780",
+      "name": "NodeSchool by LimaJS @ Laboratoria",
+      "yes_rsvp_count": 150,
+      "time": 1543676400000,
+      "utc_offset": -18000000
+    },
+    "category": {
+      "id": 34,
+      "name": "Tecnología",
+      "shortname": "tech",
+      "sort_name": "Tecnología"
+    },
+    "meta_category": {
+      "id": 292,
+      "shortname": "tech",
+      "name": "Tecnología",
+      "sort_name": "Tecnología",
+      "photo": {
+        "id": 450131949,
+        "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "category_ids": [
+        34
+      ]
+    }
+  },
+  {
+    "score": 1.0,
+    "id": 20172878,
+    "name": "Microsoft User Group Perú",
+    "status": "active",
+    "link": "https://www.meetup.com/es/msperu/",
+    "urlname": "msperu",
+    "description": "<p>La comunidad<b> Microsoft User Group Perú</b>, se enfoca en&nbsp;<span>el aprendizaje y el intercambio de información sobre el movimiento </span><span><b><span>Microsoft (</span>Infraestructura<span>,DevOps, Dev, Cloud, DBA) &amp; Open Source en Azure</span></b></span><span> - cultura, prácticas y herramientas.</span></p>\n<p>Damos la bienvenida a los profesionales técnicos, desarrolladores, startups y estudiantes. <br></p>\n<p><img src=\"https://secure.meetupstatic.com/photos/event/a/1/8/c/600_462161356.jpeg\"></p>\n<p>Involucrarse:</p>\n<p><span><a href=\"https://www.meetup.com/es/MUGdeLima/about/\">Dar una charla!</a></span></p>\n<p>Tenemos una&nbsp;lista de ideas, si usted quiere compartir. <br></p>\n<p><a href=\"https://www.meetup.com/MUGdeLima/pages/23548216/Patrocinio/?_locale=es\">Nos patrocinas!</a> <br>¿Su empresa quiere darse una vuelta?&nbsp;Tenemos opciones de patrocinio flexibles que le dan calidad de exposición.&nbsp; <br></p>\n<p><a href=\"https://www.meetup.com/es/MUGdeLima/messages/boards/\">Unirse a la lista de correo!</a> <br>Regístrese para obtener el chat con otras personas apasionadas.</p>",
+    "created": 1468273869000,
+    "city": "Lima",
+    "untranslated_city": "Lima",
+    "country": "PE",
+    "localized_country_name": "Perú",
+    "localized_location": "Lima, Perú",
+    "state": "",
+    "join_mode": "open",
+    "visibility": "public",
+    "lat": -12.07,
+    "lon": -77.05,
+    "members": 5282,
+    "organizer": {
+      "id": 110742872,
+      "name": "Jorge Castañeda",
+      "bio": "Blog: http://jorgecastanedac.com/",
+      "photo": {
+        "id": 268412703,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/7/f/b/f/highres_268412703.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/7/f/b/f/member_268412703.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/7/f/b/f/thumb_268412703.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      }
+    },
+    "who": "Miembros",
+    "group_photo": {
+      "id": 462366708,
+      "highres_link": "https://secure.meetupstatic.com/photos/event/1/a/3/4/highres_462366708.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/1/a/3/4/600_462366708.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/1/a/3/4/thumb_462366708.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "key_photo": {
+      "id": 470397705,
+      "highres_link": "https://secure.meetupstatic.com/photos/event/e/1/6/9/highres_470397705.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/e/1/6/9/600_470397705.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/e/1/6/9/thumb_470397705.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "timezone": "America/Lima",
+    "next_event": {
+      "id": "256409430",
+      "name": "Global AI Bootcamp\u200b",
+      "yes_rsvp_count": 145,
+      "time": 1544882400000,
+      "utc_offset": -18000000
+    },
+    "category": {
+      "id": 34,
+      "name": "Tecnología",
+      "shortname": "tech",
+      "sort_name": "Tecnología"
+    },
+    "meta_category": {
+      "id": 292,
+      "shortname": "tech",
+      "name": "Tecnología",
+      "sort_name": "Tecnología",
+      "photo": {
+        "id": 450131949,
+        "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "category_ids": [
+        34
+      ]
+    }
+  },
+  {
+    "score": 1.0,
+    "id": 22211969,
+    "name": "SQL PASS LIMA",
+    "status": "active",
+    "link": "https://www.meetup.com/es/SQL-PASS-LIMA/",
+    "urlname": "SQL-PASS-LIMA",
+    "description": "<p>Este grupo es para la comunidad de entusiastas y profesionales de SQL Server, plataforma de datos y tecnologías de Microsoft.</p>",
+    "created": 1486100471000,
+    "city": "Lima",
+    "untranslated_city": "Lima",
+    "country": "PE",
+    "localized_country_name": "Perú",
+    "localized_location": "Lima, Perú",
+    "state": "",
+    "join_mode": "open",
+    "visibility": "public",
+    "lat": -12.07,
+    "lon": -77.05,
+    "members": 2963,
+    "organizer": {
+      "id": 221033631,
+      "name": "Juan Rafael",
+      "bio": "",
+      "photo": {
+        "id": 268537711,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/9/3/4/f/highres_268537711.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/9/3/4/f/member_268537711.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/9/3/4/f/thumb_268537711.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      }
+    },
+    "who": "Miembros",
+    "group_photo": {
+      "id": 465416903,
+      "highres_link": "https://secure.meetupstatic.com/photos/event/d/e/4/7/highres_465416903.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/d/e/4/7/600_465416903.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/d/e/4/7/thumb_465416903.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "key_photo": {
+      "id": 470778458,
+      "highres_link": "https://secure.meetupstatic.com/photos/event/4/8/1/a/highres_470778458.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/4/8/1/a/600_470778458.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/4/8/1/a/thumb_470778458.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "timezone": "America/Lima",
+    "next_event": {
+      "id": "255683007",
+      "name": "Roadshow Virtual - App in a Day (Dia 3)",
+      "yes_rsvp_count": 11,
+      "time": 1543536000000,
+      "utc_offset": -18000000
+    },
+    "category": {
+      "id": 34,
+      "name": "Tecnología",
+      "shortname": "tech",
+      "sort_name": "Tecnología"
+    },
+    "meta_category": {
+      "id": 292,
+      "shortname": "tech",
+      "name": "Tecnología",
+      "sort_name": "Tecnología",
+      "photo": {
+        "id": 450131949,
+        "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "category_ids": [
+        34
+      ]
+    }
+  },
+  {
+    "score": 1.0,
+    "id": 22590560,
+    "name": "GDG Lima",
+    "status": "active",
+    "link": "https://www.meetup.com/es/gdglima/",
+    "urlname": "gdglima",
+    "description": "<p>El Google Developer Group - GDG Lima es una comunidad que investiga, comparte y difunde tecnología Google en las áreas de desarrollo de software basado en Cloud, Mobile y Web; tales como Google Apps API, Apps Script, App Engine, GWT, HTML5, API Maps, entre otras tecnologías.</p> \n<p>Si te interesa el desarrollo de sofware utilizando tecnologías de Google , este es el lugar indicado.</p>",
+    "created": 1487878656000,
+    "city": "Lima",
+    "untranslated_city": "Lima",
+    "country": "PE",
+    "localized_country_name": "Perú",
+    "localized_location": "Lima, Perú",
+    "state": "",
+    "join_mode": "open",
+    "visibility": "public",
+    "lat": -12.07,
+    "lon": -77.05,
+    "members": 3136,
+    "organizer": {
+      "id": 52198952,
+      "name": "Eduardo Medina A.",
+      "bio": "",
+      "photo": {
+        "id": 256717042,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/9/0/b/2/highres_256717042.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/9/0/b/2/member_256717042.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/9/0/b/2/thumb_256717042.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      }
+    },
+    "who": "Miembros",
+    "key_photo": {
+      "id": 461349264,
+      "highres_link": "https://secure.meetupstatic.com/photos/event/2/4/3/0/highres_461349264.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/2/4/3/0/600_461349264.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/2/4/3/0/thumb_461349264.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "timezone": "America/Lima",
+    "next_event": {
+      "id": "256439050",
+      "name": "DevFest GDG Lima 2018",
+      "yes_rsvp_count": 115,
+      "time": 1543622400000,
+      "utc_offset": -18000000
+    },
+    "category": {
+      "id": 34,
+      "name": "Tecnología",
+      "shortname": "tech",
+      "sort_name": "Tecnología"
+    },
+    "meta_category": {
+      "id": 292,
+      "shortname": "tech",
+      "name": "Tecnología",
+      "sort_name": "Tecnología",
+      "photo": {
+        "id": 450131949,
+        "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "category_ids": [
+        34
+      ]
+    },
+    "pro_network": {
+      "name": "GDG",
+      "urlname": "gdg",
+      "number_of_groups": 806,
+      "network_url": "https://www.meetup.com/es/pro/gdg/"
+    }
+  },
+  {
+    "score": 1.0,
+    "id": 30214917,
+    "name": "Blockchain para emprendedores, visionarios o apasionados.",
+    "status": "active",
+    "link": "https://www.meetup.com/es/Blockchain-para-Desarrolladores-o-emprendedores/",
+    "urlname": "Blockchain-para-Desarrolladores-o-emprendedores",
+    "description": "<p>Este grupo no es masivo, hay otros grupos donde podrás aprender ¿Qué es Blockchain? ¿Para que sirve? ¿Que diferencia hay con las criptomonedas?.</p>\n<p>Aquí nos vamos a reunir con personas que quieran conocer la tecnología para utilizarla en algún proyecto, integrarlo con sus aplicaciones o productos, invertir en nodos para crear una red de confianza, crear proyectos basados en blockchain (Como: www.Leftherian.com, www.stamping.io y www.blocheck.com)</p>",
+    "created": 1539237987000,
+    "city": "Lima",
+    "untranslated_city": "Lima",
+    "country": "PE",
+    "localized_country_name": "Perú",
+    "localized_location": "Lima, Perú",
+    "state": "",
+    "join_mode": "open",
+    "visibility": "public",
+    "lat": -12.07,
+    "lon": -77.05,
+    "members": 502,
+    "organizer": {
+      "id": 213234398,
+      "name": "Jose Zarate",
+      "bio": "",
+      "photo": {
+        "id": 260257373,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/9/1/f/d/highres_260257373.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/9/1/f/d/member_260257373.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/9/1/f/d/thumb_260257373.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      }
+    },
+    "who": "Miembros",
+    "key_photo": {
+      "id": 475340266,
+      "highres_link": "https://secure.meetupstatic.com/photos/event/4/f/2/a/highres_475340266.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/4/f/2/a/600_475340266.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/4/f/2/a/thumb_475340266.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "timezone": "America/Lima",
+    "next_event": {
+      "id": "twwslqyxqbcb",
+      "name": "Estampar una huella digital en la Blockchain usando PHP, JavaScript y Postman",
+      "yes_rsvp_count": 14,
+      "time": 1543698000000,
+      "utc_offset": -18000000
+    },
+    "category": {
+      "id": 2,
+      "name": "Carrera y negocios",
+      "shortname": "career-business",
+      "sort_name": "Carrera y negocios"
+    },
+    "meta_category": {
+      "id": 522,
+      "shortname": "career-business",
+      "name": "Carrera y negocios",
+      "sort_name": "Carrera y negocios",
+      "photo": {
+        "id": 450131927,
+        "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/highres_450131927.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/600_450131927.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/thumb_450131927.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "category_ids": [
+        2
+      ]
+    }
+  },
+  {
+    "score": 1.0,
+    "id": 28874365,
+    "name": "Cloudmanía",
+    "status": "active",
+    "link": "https://www.meetup.com/es/Cloudmania/",
+    "urlname": "Cloudmania",
+    "description": "<p>Sabías que existen herramientas y productos desarrollados para la nube que te pueden facilitar la implementación de algún servicio? No sabes a quien contactar cuando necesitas ayuda local sobre un servicio? Esta comunidad nace con la idea de ir presentando diferentes herramientas, productos y servicios que nos ayudarán a trabajar en nuestro cloud, ya sea si trabajas en AWS, Azure, Open Cloud u otra, la idea es poder conocer las últimas novedades de cada producto. Traeremos a los representantes locales de cada herramienta o producto para que nos expliquen como trabajan y como nos ayudarían en nuestro día a día. Bienvenido a Cloudmanía!</p>",
+    "created": 1529360791000,
+    "city": "Lima",
+    "untranslated_city": "Lima",
+    "country": "PE",
+    "localized_country_name": "Perú",
+    "localized_location": "Lima, Perú",
+    "state": "",
+    "join_mode": "open",
+    "visibility": "public",
+    "lat": -12.07,
+    "lon": -77.05,
+    "members": 645,
+    "organizer": {
+      "id": 254284701,
+      "name": "Fernando Carrillo",
+      "bio": "",
+      "photo": {
+        "id": 278171366,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/2/c/6/6/highres_278171366.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/2/c/6/6/member_278171366.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/2/c/6/6/thumb_278171366.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      }
+    },
+    "who": "Miembros",
+    "key_photo": {
+      "id": 472166179,
+      "highres_link": "https://secure.meetupstatic.com/photos/event/6/6/4/3/highres_472166179.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/6/6/4/3/600_472166179.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/6/6/4/3/thumb_472166179.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "timezone": "America/Lima",
+    "next_event": {
+      "id": "256390249",
+      "name": "Evento de cierre de año: Cloud Security Alliance 2018",
+      "yes_rsvp_count": 45,
+      "time": 1544140800000,
+      "utc_offset": -18000000
+    },
+    "category": {
+      "id": 34,
+      "name": "Tecnología",
+      "shortname": "tech",
+      "sort_name": "Tecnología"
+    },
+    "meta_category": {
+      "id": 292,
+      "shortname": "tech",
+      "name": "Tecnología",
+      "sort_name": "Tecnología",
+      "photo": {
+        "id": 450131949,
+        "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "category_ids": [
+        34
+      ]
+    }
+  },
+  {
+    "score": 1.0,
+    "id": 18335119,
+    "name": "Android Dev Perú",
+    "status": "active",
+    "link": "https://www.meetup.com/es/Android-Dev-Peru/",
+    "urlname": "Android-Dev-Peru",
+    "description": "<p><a href=\"https://www.facebook.com/groups/740101682672690/?fref=ts\">Android Dev Perú</a>, Desarrolladores Android en Perú <br> <br></p>\n<p>Facebook:<a href=\"https://www.facebook.com/groups/androidpe/\"> https://www.facebook.com/groups/androidpe/ <br></a> <br> Github : <a href=\"https://github.com/AndroidDevPeru\">https://github.com/Android-Dev-Peru <br></a> <br> G+ : <a href=\"https://goo.gl/2dzUW9\">https://goo.gl/2dzUW9</a> (Comunidad Android.pe) <br> <br> Meetup : <a href=\"http://www.meetup.com/es-ES/Android-Dev-Peru/\">http://www.meetup.com/es-ES/Android-Dev-Peru/ <br></a> <br>Medium : <br><a href=\"https://medium.com/@androiddevperu\">https://medium.com/@androiddevperu <br></a> <br> <a href=\"https://medium.com/android-dev-peru\">https://medium.com/android-dev-peru</a> <br> <br> Grupo sobre desarrollo de aplicaciones móviles para Android , Android Wear , Android TV, Kotlin <br> <br> #android #tips #mobile #androidstudio #fragments #ndk #sdk #kotlin <br></p>",
+    "created": 1421262820000,
+    "city": "Lima",
+    "untranslated_city": "Lima",
+    "country": "PE",
+    "localized_country_name": "Perú",
+    "localized_location": "Lima, Perú",
+    "state": "",
+    "join_mode": "open",
+    "visibility": "public",
+    "lat": -12.07,
+    "lon": -77.05,
+    "members": 2860,
+    "organizer": {
+      "id": 52198952,
+      "name": "Eduardo Medina A.",
+      "bio": "",
+      "photo": {
+        "id": 256717042,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/9/0/b/2/highres_256717042.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/9/0/b/2/member_256717042.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/9/0/b/2/thumb_256717042.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      }
+    },
+    "who": "Android Lovers",
+    "group_photo": {
+      "id": 470771209,
+      "highres_link": "https://secure.meetupstatic.com/photos/event/2/b/c/9/highres_470771209.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/2/b/c/9/600_470771209.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/2/b/c/9/thumb_470771209.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "key_photo": {
+      "id": 469880372,
+      "highres_link": "https://secure.meetupstatic.com/photos/event/4/f/9/4/highres_469880372.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/4/f/9/4/600_469880372.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/4/f/9/4/thumb_469880372.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "timezone": "America/Lima",
+    "category": {
+      "id": 34,
+      "name": "Tecnología",
+      "shortname": "tech",
+      "sort_name": "Tecnología"
+    },
+    "meta_category": {
+      "id": 292,
+      "shortname": "tech",
+      "name": "Tecnología",
+      "sort_name": "Tecnología",
+      "photo": {
+        "id": 450131949,
+        "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "category_ids": [
+        34
+      ]
+    }
+  },
+  {
+    "score": 1.0,
+    "id": 28749104,
+    "name": "Lean Kanban Latam",
+    "status": "active",
+    "link": "https://www.meetup.com/es/Lean-Kanban-Latam/",
+    "urlname": "Lean-Kanban-Latam",
+    "description": "<p>Se crea esta comunidad con la finalidad de ayudarnos unos a otros en el camino evolutivo propuesto por el Método Kanban.</p> \n<p>Lo único que requerimos, es que vengas con ganas de compartir tus experiencias y conocimientos asociados/relacionados al Método Kanban, para entre todos aprender, aportar, consolidar la experiencia y fortalecernos mutuamente.</p> \n<p>Entre los temas a compartir tenemos: Experiencias implementando Kanban, cambio evolutivo (no disruptivo), STATIK, Kanban Maturity Model (KMM), Métricas, Forecast, Escalamiento, Fit for Purpose, Coaching, Portafolio Kanban, Simuladores, The Kanban Guide, Three flight levels, Business Agility, Interacción con frameworks ágiles, entre otros.</p>",
+    "created": 1528473782000,
+    "city": "Lima",
+    "untranslated_city": "Lima",
+    "country": "PE",
+    "localized_country_name": "Perú",
+    "localized_location": "Lima, Perú",
+    "state": "",
+    "join_mode": "open",
+    "visibility": "public",
+    "lat": -12.07,
+    "lon": -77.05,
+    "members": 746,
+    "organizer": {
+      "id": 191891571,
+      "name": "Ivan Gonzales",
+      "bio": "",
+      "photo": {
+        "id": 264711081,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/c/7/8/9/highres_264711081.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/c/7/8/9/member_264711081.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/c/7/8/9/thumb_264711081.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      }
+    },
+    "who": "Miembros",
+    "timezone": "America/Lima",
+    "next_event": {
+      "id": "256599966",
+      "name": "Juguemos Featureban y conozcamos las métricas esenciales del flujo",
+      "yes_rsvp_count": 75,
+      "time": 1544054400000,
+      "utc_offset": -18000000
+    },
+    "category": {
+      "id": 34,
+      "name": "Tecnología",
+      "shortname": "tech",
+      "sort_name": "Tecnología"
+    },
+    "meta_category": {
+      "id": 292,
+      "shortname": "tech",
+      "name": "Tecnología",
+      "sort_name": "Tecnología",
+      "photo": {
+        "id": 450131949,
+        "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "category_ids": [
+        34
+      ]
+    }
+  },
+  {
+    "score": 1.0,
+    "id": 20190793,
+    "name": "Perú BI & Analytics Group",
+    "status": "active",
+    "link": "https://www.meetup.com/es/Peru-BI-Analytics-Group/",
+    "urlname": "Peru-BI-Analytics-Group",
+    "description": "<p>Únete también al <a href=\"https://www.facebook.com/groups/perubianalyticsgroup/\">grupo de Facebook</a>. Búscanos como <b>Perú BI &amp; Analytics Group</b>.</p> \n<p><br>¿Apasionado con utilizar la magia de los datos para ayudar a las personas y empresas a ver más allá de lo evidente y lograr sus objetivos? TE NECESITAMOS EN EL TEAM. Evangelicemos y aprendamos juntos de las nuevas tecnologías y metodologías alrededor de los datos que nos ofrece la era digital, activemos nuestro BI MINDSET y hagámoslo una realidad. Empezaremos con Power BI y poco a poco nos extenderemos hacia Agile BI, SQL Server, R, Azure Stream Analytics, Azure Machine Learning.</p>",
+    "created": 1468688682000,
+    "city": "Lima",
+    "untranslated_city": "Lima",
+    "country": "PE",
+    "localized_country_name": "Perú",
+    "localized_location": "Lima, Perú",
+    "state": "",
+    "join_mode": "open",
+    "visibility": "public",
+    "lat": -12.07,
+    "lon": -77.05,
+    "members": 1130,
+    "organizer": {
+      "id": 163156592,
+      "name": "Brian Koo",
+      "bio": "Ingeniero de Sistemas y MBA apasionado con aplicar y evangelizar a los demás en las ciencias de los datos (data managment, BI, analytics, data visualization -y todo con lo que la tecnología nos sorprenda).",
+      "photo": {
+        "id": 252948330,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/b/c/c/a/highres_252948330.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/b/c/c/a/member_252948330.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/b/c/c/a/thumb_252948330.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      }
+    },
+    "who": "Data Lovers",
+    "group_photo": {
+      "id": 458631626,
+      "highres_link": "https://secure.meetupstatic.com/photos/event/c/9/a/a/highres_458631626.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/c/9/a/a/600_458631626.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/c/9/a/a/thumb_458631626.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "key_photo": {
+      "id": 476500601,
+      "highres_link": "https://secure.meetupstatic.com/photos/event/9/e/9/9/highres_476500601.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/9/e/9/9/600_476500601.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/9/e/9/9/thumb_476500601.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "timezone": "America/Lima",
+    "next_event": {
+      "id": "255271001",
+      "name": "Data Show #13 - Global AI Bootcamp (regístrate en el link) ",
+      "yes_rsvp_count": 30,
+      "time": 1544882400000,
+      "utc_offset": -18000000
+    },
+    "category": {
+      "id": 34,
+      "name": "Tecnología",
+      "shortname": "tech",
+      "sort_name": "Tecnología"
+    },
+    "meta_category": {
+      "id": 292,
+      "shortname": "tech",
+      "name": "Tecnología",
+      "sort_name": "Tecnología",
+      "photo": {
+        "id": 450131949,
+        "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "category_ids": [
+        34
+      ]
+    }
+  },
+  {
+    "score": 1.0,
+    "id": 20273606,
+    "name": "Professional Scrum Perú",
+    "status": "active",
+    "link": "https://www.meetup.com/es/Scrum-Escalable-Nexus-Peru-Meetup/",
+    "urlname": "Scrum-Escalable-Nexus-Peru-Meetup",
+    "description": "<p>El grupo esta dedicado a difundir experiencias y aportar al desarrollo de la adopción ágil a nivel escalable en empresas. Uno de los Frameworks a discutir y conocer es Nexus de Scrum.org. También discutiremos temas relacionados al enfoque ágil y Scrum.</p>",
+    "created": 1470191371000,
+    "city": "Lima",
+    "untranslated_city": "Lima",
+    "country": "PE",
+    "localized_country_name": "Perú",
+    "localized_location": "Lima, Perú",
+    "state": "",
+    "join_mode": "open",
+    "visibility": "public",
+    "lat": -12.07,
+    "lon": -77.05,
+    "members": 1252,
+    "organizer": {
+      "id": 208478032,
+      "name": "Alfonso Tafur Principe",
+      "bio": "",
+      "photo": {
+        "id": 268889777,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/7/4/5/1/highres_268889777.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/7/4/5/1/member_268889777.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/7/4/5/1/thumb_268889777.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      }
+    },
+    "who": "Members",
+    "group_photo": {
+      "id": 464163563,
+      "highres_link": "https://secure.meetupstatic.com/photos/event/d/e/b/highres_464163563.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/d/e/b/600_464163563.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/d/e/b/thumb_464163563.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "key_photo": {
+      "id": 455118661,
+      "highres_link": "https://secure.meetupstatic.com/photos/event/4/8/e/5/highres_455118661.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/4/8/e/5/600_455118661.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/4/8/e/5/thumb_455118661.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "timezone": "America/Lima",
+    "category": {
+      "id": 2,
+      "name": "Carrera y negocios",
+      "shortname": "career-business",
+      "sort_name": "Carrera y negocios"
+    },
+    "meta_category": {
+      "id": 522,
+      "shortname": "career-business",
+      "name": "Carrera y negocios",
+      "sort_name": "Carrera y negocios",
+      "photo": {
+        "id": 450131927,
+        "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/highres_450131927.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/600_450131927.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/thumb_450131927.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "category_ids": [
+        2
+      ]
+    }
+  },
+  {
+    "score": 1.0,
+    "id": 29699785,
+    "name": "Blockchain on Tour - Lima",
+    "status": "active",
+    "link": "https://www.meetup.com/es/Blockchain-on-Tour-Lima/",
+    "urlname": "Blockchain-on-Tour-Lima",
+    "description": "<p>Blockchain on Tour es un recorrido por 5 diferentes ciudades de Latinoamerica, que busca incrementar la adopción de sistemas descentrailizados y contratos inteligentes.<br>El evento esta dirigido a cualquier persona que sienta interés por el tema sin importar sus conocimientos previos. Se darán a conocer 6 aplicaciones que funcionan sobre la red Ethereum y están listas para su uso masivo.<br>La entrada es libre y el único requisito es suscribirse en este grupo.</p>",
+    "created": 1535990738000,
+    "city": "Lima",
+    "untranslated_city": "Lima",
+    "country": "PE",
+    "localized_country_name": "Perú",
+    "localized_location": "Lima, Perú",
+    "state": "",
+    "join_mode": "open",
+    "visibility": "public",
+    "lat": -12.07,
+    "lon": -77.05,
+    "members": 440,
+    "organizer": {
+      "id": 180266722,
+      "name": "Bernd",
+      "bio": "Former Advisory Board Member of the Ethereum Foundation. Now the Business Guy in Swarm City, bringing Blockchain to the Masses.",
+      "photo": {
+        "id": 238209012,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/2/3/3/4/highres_238209012.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/2/3/3/4/member_238209012.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/2/3/3/4/thumb_238209012.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      }
+    },
+    "who": "Members",
+    "key_photo": {
+      "id": 476651501,
+      "highres_link": "https://secure.meetupstatic.com/photos/event/2/c/e/d/highres_476651501.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/2/c/e/d/600_476651501.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/2/c/e/d/thumb_476651501.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "timezone": "America/Lima",
+    "category": {
+      "id": 34,
+      "name": "Tecnología",
+      "shortname": "tech",
+      "sort_name": "Tecnología"
+    },
+    "meta_category": {
+      "id": 292,
+      "shortname": "tech",
+      "name": "Tecnología",
+      "sort_name": "Tecnología",
+      "photo": {
+        "id": 450131949,
+        "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "category_ids": [
+        34
+      ]
+    },
+    "pro_network": {
+      "name": "Blockchain on Tour",
+      "urlname": "blockchain-on-tour",
+      "number_of_groups": 5,
+      "network_url": "https://www.meetup.com/es/pro/blockchain-on-tour/"
+    }
+  },
+  {
+    "score": 1.0,
+    "id": 2858652,
+    "name": "Perú TECH",
+    "status": "active",
+    "link": "https://www.meetup.com/es/PeruTech/",
+    "urlname": "PeruTech",
+    "description": "<p><b>Acerca de Perú Tech Meetup</b></p>\n<p> Fundada en 2011, Perú Tech Meetup es el grupo meetup más grande del país, contribuye al crecimiento y la diversificación de la industria tecnológica; promueve lazos entre comunidades de tecnología e innovación y fomentamos la expansión de los mercados de startups en el Perú. <span>Es miembro oficial y esta afiliado al </span><span>New York Tech Meetup.</span></p>\n<p><span><span>Cada mes, nuestro meetup mensual se lleva a cabo en diversas </span>instituciones<span> publicas y privadas en diversas ciudades del </span>país y cuenta <span>con demostraciones en vivo (no ideas, no ppt) de proyectos o empresas de tecnología nacional e internacional, seguido de un networking. </span></span> <br></p>\n<p>Perú Tech viene realizando diversos formatos de eventos como: </p>\n<p> \u2022Perú Tech Meetup</p>\n<p> \u2022Women Tech Meetup. </p>\n<p> \u2022Pastillas para innovar. </p>\n<p> \u2022Hackatón Perú Tech. </p>\n<p> \u2022Knowmad Meetup  <br></p>\n<p><span><span>La misión de Perú Tech Meetup es representar, inspirar, apoyar y ayudar a dirigir las comunidades tecnológicas del </span>país<span>, </span>fomentar<span> el crecimiento de las startups para crear un futuro mejor para todos.</span> <br></span></p>\n<p>¿Tienes un producto funcional y quieres mostrar al mundo?</p>\n<p>Escríbenos a: perutechmeetup@gmail.com</p>\n<p>Para temas de auspicios escríbenos a: perutechmeetup@gmail.com </p>\n<p>Nos vemos en el próximo Tech Meetup!!! </p>",
+    "created": 1322111824000,
+    "city": "Lima",
+    "untranslated_city": "Lima",
+    "country": "PE",
+    "localized_country_name": "Perú",
+    "localized_location": "Lima, Perú",
+    "state": "",
+    "join_mode": "open",
+    "visibility": "public",
+    "lat": -12.07,
+    "lon": -77.05,
+    "members": 8029,
+    "organizer": {
+      "id": 183396236,
+      "name": "PeruTech Meetup",
+      "bio": "",
+      "photo": {
+        "id": 280222385,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/5/7/7/1/highres_280222385.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/5/7/7/1/member_280222385.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/5/7/7/1/thumb_280222385.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      }
+    },
+    "who": "Amantes de la tecnología :)",
+    "group_photo": {
+      "id": 453900065,
+      "highres_link": "https://secure.meetupstatic.com/photos/event/4/1/highres_453900065.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/4/1/600_453900065.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/4/1/thumb_453900065.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "key_photo": {
+      "id": 469620579,
+      "highres_link": "https://secure.meetupstatic.com/photos/event/2/4/3/highres_469620579.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/2/4/3/600_469620579.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/2/4/3/thumb_469620579.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "timezone": "America/Lima",
+    "next_event": {
+      "id": "256725599",
+      "name": "\"CONSTRUYE Y LLÉVATELO A CASA\" con LEGO",
+      "yes_rsvp_count": 10,
+      "time": 1543676400000,
+      "utc_offset": -18000000
+    },
+    "category": {
+      "id": 34,
+      "name": "Tecnología",
+      "shortname": "tech",
+      "sort_name": "Tecnología"
+    },
+    "meta_category": {
+      "id": 292,
+      "shortname": "tech",
+      "name": "Tecnología",
+      "sort_name": "Tecnología",
+      "photo": {
+        "id": 450131949,
+        "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "category_ids": [
+        34
+      ]
+    }
+  },
+  {
+    "score": 1.0,
+    "id": 19785606,
+    "name": "Software Crafters Perú",
+    "status": "active",
+    "link": "https://www.meetup.com/es/Software-Crafters-Peru/",
+    "urlname": "Software-Crafters-Peru",
+    "description": "<p>Hablaremos de Continuous Delivery, Integration, Design Patterns, Performance Tweaks/Tunning, Bases de datos, Lenguajes de programación, Algoritmia, Clean Code, TDD, BDD, ATDD, Testing, Automatizacion, Seguridad, Tunning, etc. Si eres Desarrollador de software esta es el grupo donde debes estar</p>",
+    "created": 1459523066000,
+    "city": "Lima",
+    "untranslated_city": "Lima",
+    "country": "PE",
+    "localized_country_name": "Perú",
+    "localized_location": "Lima, Perú",
+    "state": "",
+    "join_mode": "open",
+    "visibility": "public",
+    "lat": -12.07,
+    "lon": -77.05,
+    "members": 807,
+    "organizer": {
+      "id": 117724702,
+      "name": "Uzi Mamani",
+      "bio": "Software Craftsmanship in Belatrix Software",
+      "photo": {
+        "id": 155612642,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/7/f/8/2/highres_155612642.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/7/f/8/2/member_155612642.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/7/f/8/2/thumb_155612642.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      }
+    },
+    "who": "Software Crafter",
+    "group_photo": {
+      "id": 456652499,
+      "highres_link": "https://secure.meetupstatic.com/photos/event/c/d/1/3/highres_456652499.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/c/d/1/3/600_456652499.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/c/d/1/3/thumb_456652499.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "key_photo": {
+      "id": 475896093,
+      "highres_link": "https://secure.meetupstatic.com/photos/event/8/c/f/d/highres_475896093.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/8/c/f/d/600_475896093.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/8/c/f/d/thumb_475896093.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "timezone": "America/Lima",
+    "category": {
+      "id": 34,
+      "name": "Tecnología",
+      "shortname": "tech",
+      "sort_name": "Tecnología"
+    },
+    "meta_category": {
+      "id": 292,
+      "shortname": "tech",
+      "name": "Tecnología",
+      "sort_name": "Tecnología",
+      "photo": {
+        "id": 450131949,
+        "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "category_ids": [
+        34
+      ]
+    }
+  },
+  {
+    "score": 1.0,
+    "id": 21781184,
+    "name": "Tech Meet Up UNI",
+    "status": "active",
+    "link": "https://www.meetup.com/es/Tech-Meet-Up-UNI/",
+    "urlname": "Tech-Meet-Up-UNI",
+    "description": "<p>El Tech Meet Up UNI es el encuentro organizado por la incubadora de negocios de base tecnológica de la Universidad Nacional de Ingeniería: Startup UNI.</p>\n<p>En este espacio se reúnen estudiantes y egresados de la Universidad Nacional de Ingeniería apasionados por la tecnología con el objetivo de mostrar sus startups, investigación o desarrollos al público en general.</p>\n<p>La crítica constructiva para emprendedores e investigadores es muy importante por ello te invitamos a participar de nuestros meet up y conocer más acerca de nuestra comunidad.</p>",
+    "created": 1483655605000,
+    "city": "Lima",
+    "untranslated_city": "Lima",
+    "country": "PE",
+    "localized_country_name": "Perú",
+    "localized_location": "Lima, Perú",
+    "state": "",
+    "join_mode": "open",
+    "visibility": "public",
+    "lat": -12.07,
+    "lon": -77.05,
+    "members": 3001,
+    "organizer": {
+      "id": 219338300,
+      "name": "Manuel Figueroa",
+      "bio": "",
+      "photo": {
+        "id": 263066861,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/6/8/e/d/highres_263066861.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/6/8/e/d/member_263066861.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/6/8/e/d/thumb_263066861.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      }
+    },
+    "who": "Miembros",
+    "group_photo": {
+      "id": 474068044,
+      "highres_link": "https://secure.meetupstatic.com/photos/event/1/f/6/c/highres_474068044.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/1/f/6/c/600_474068044.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/1/f/6/c/thumb_474068044.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "key_photo": {
+      "id": 474068108,
+      "highres_link": "https://secure.meetupstatic.com/photos/event/1/f/a/c/highres_474068108.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/1/f/a/c/600_474068108.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/1/f/a/c/thumb_474068108.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "timezone": "America/Lima",
+    "next_event": {
+      "id": "256185010",
+      "name": "Tech Meet Up UNI #18",
+      "yes_rsvp_count": 68,
+      "time": 1543536000000,
+      "utc_offset": -18000000
+    },
+    "category": {
+      "id": 34,
+      "name": "Tecnología",
+      "shortname": "tech",
+      "sort_name": "Tecnología"
+    },
+    "meta_category": {
+      "id": 292,
+      "shortname": "tech",
+      "name": "Tecnología",
+      "sort_name": "Tecnología",
+      "photo": {
+        "id": 450131949,
+        "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "category_ids": [
+        34
+      ]
+    }
+  },
+  {
+    "score": 1.0,
+    "id": 29534656,
+    "name": "Service Design Network Peru",
+    "status": "active",
+    "link": "https://www.meetup.com/es/SDN-Peru/",
+    "urlname": "SDN-Peru",
+    "description": "<p>The Service Design Network - Peru Chapter provides a platform to bring practitioners, academics, students, and organizations together to develop, promote and strengthen the knowledge and practice of Service Design in Peru. If you are a professional in the field or a enthusiast, come join us!</p>",
+    "created": 1534366159000,
+    "city": "Lima",
+    "untranslated_city": "Lima",
+    "country": "PE",
+    "localized_country_name": "Perú",
+    "localized_location": "Lima, Perú",
+    "state": "",
+    "join_mode": "open",
+    "visibility": "public",
+    "lat": -12.07,
+    "lon": -77.05,
+    "members": 693,
+    "organizer": {
+      "id": 147974212,
+      "name": "Roger Hidalgo",
+      "bio": "",
+      "photo": {
+        "id": 277205891,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/1/7/0/3/highres_277205891.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/1/7/0/3/member_277205891.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/1/7/0/3/thumb_277205891.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      }
+    },
+    "who": "Members",
+    "group_photo": {
+      "id": 473779953,
+      "highres_link": "https://secure.meetupstatic.com/photos/event/4/d/f/1/highres_473779953.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/4/d/f/1/600_473779953.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/4/d/f/1/thumb_473779953.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "key_photo": {
+      "id": 473780255,
+      "highres_link": "https://secure.meetupstatic.com/photos/event/4/f/1/f/highres_473780255.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/4/f/1/f/600_473780255.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/4/f/1/f/thumb_473780255.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "timezone": "America/Lima",
+    "category": {
+      "id": 34,
+      "name": "Tecnología",
+      "shortname": "tech",
+      "sort_name": "Tecnología"
+    },
+    "meta_category": {
+      "id": 292,
+      "shortname": "tech",
+      "name": "Tecnología",
+      "sort_name": "Tecnología",
+      "photo": {
+        "id": 450131949,
+        "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "category_ids": [
+        34
+      ]
+    }
+  },
+  {
+    "score": 1.0,
+    "id": 20251751,
+    "name": "English Conversations in Lima - Peru",
+    "status": "active",
+    "link": "https://www.meetup.com/es/1on1conversations/",
+    "urlname": "1on1conversations",
+    "description": "<p>Este grupo es para todos aquellos que deseen practicar el idioma inglés. En nuestras reuniones conversarás con una persona diferente aproximadamente cada 12 minutos. Las reuniones son gratuitas y no están limitadas a estudiantes de nivel avanzado, pero es necesario tener, por lo menos, conocimiento básico del idioma. Las únicos requisitos son tener muchas ganas de aprender y divertirse.</p>\n<p>Es importante mencionar que las opiniones de las personas que participan en nuestros eventos no necesariamente son compartidas por 1on1 Conversations. Por tanto, se pide a los participantes respeto y tolerancia a las diferentes opiniones que puedan haber.</p>\n<p>También nos puedes encontrar en Facebook: <a href=\"https://www.facebook.com/1on1Conversation\">https://www.facebook.com/1on1Conversation</a></p>",
+    "created": 1470000649000,
+    "city": "Lima",
+    "untranslated_city": "Lima",
+    "country": "PE",
+    "localized_country_name": "Perú",
+    "localized_location": "Lima, Perú",
+    "state": "",
+    "join_mode": "open",
+    "visibility": "public",
+    "lat": -12.07,
+    "lon": -77.05,
+    "members": 6624,
+    "organizer": {
+      "id": 211259919,
+      "name": "Raul Ubaldo",
+      "bio": "Let all worlds be happy.",
+      "photo": {
+        "id": 273257937,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/4/6/1/1/highres_273257937.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/4/6/1/1/member_273257937.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/4/6/1/1/thumb_273257937.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      }
+    },
+    "who": "Members",
+    "group_photo": {
+      "id": 476323538,
+      "highres_link": "https://secure.meetupstatic.com/photos/event/a/a/1/2/highres_476323538.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/a/a/1/2/600_476323538.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/a/a/1/2/thumb_476323538.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "key_photo": {
+      "id": 476323538,
+      "highres_link": "https://secure.meetupstatic.com/photos/event/a/a/1/2/highres_476323538.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/a/a/1/2/600_476323538.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/a/a/1/2/thumb_476323538.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "timezone": "America/Lima",
+    "category": {
+      "id": 16,
+      "name": "Idiomas e identidad cultural",
+      "shortname": "language",
+      "sort_name": "Idiomas e identidad cultural"
+    },
+    "meta_category": {
+      "id": 212,
+      "shortname": "language",
+      "name": "Idiomas y cultura",
+      "sort_name": "Idiomas y cultura",
+      "photo": {
+        "id": 450131939,
+        "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/highres_450131939.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/600_450131939.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/thumb_450131939.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "category_ids": [
+        16
+      ]
+    }
+  },
+  {
+    "score": 1.0,
+    "id": 28125938,
+    "name": "SAFe Perú",
+    "status": "active",
+    "link": "https://www.meetup.com/es/Meetup-de-Scaled-Agile-Framework-SAFe-en-Lima/",
+    "urlname": "Meetup-de-Scaled-Agile-Framework-SAFe-en-Lima",
+    "description": "<p>El primer Meetup de SAFe en Lima! <br>Hablemos de SAFe y en como iniciar en este mundo de la mejor forma, paso a paso. <br>Descubramos el poder del framework, principios, valores y distintas configuraciones. <br>Conversemos de los principales tópicos y técnicas que nos facilita el marco de trabajo líder en el mundo para agilidad empresarial. <br>Aquellos interesados en ingresar al mundo de SAFe, este Meetup es para ti. <br>No te quedes fuera!</p>",
+    "created": 1523478829000,
+    "city": "Lima",
+    "untranslated_city": "Lima",
+    "country": "PE",
+    "localized_country_name": "Perú",
+    "localized_location": "Lima, Perú",
+    "state": "",
+    "join_mode": "open",
+    "visibility": "public",
+    "lat": -12.07,
+    "lon": -77.05,
+    "members": 447,
+    "organizer": {
+      "id": 233607839,
+      "name": "Pablo Loayza",
+      "bio": "SAFe® SA, SAFe® SASM, CSM®"
+    },
+    "who": "Fellows",
+    "key_photo": {
+      "id": 471163188,
+      "highres_link": "https://secure.meetupstatic.com/photos/event/a/8/b/4/highres_471163188.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/a/8/b/4/600_471163188.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/a/8/b/4/thumb_471163188.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "timezone": "America/Lima",
+    "next_event": {
+      "id": "rsnptpyxqbxb",
+      "name": "Scaled Agile Framework (SAFe) - What's new in SAFe 4.6 with Michael Stump",
+      "yes_rsvp_count": 50,
+      "time": 1544140800000,
+      "utc_offset": -18000000
+    },
+    "category": {
+      "id": 34,
+      "name": "Tecnología",
+      "shortname": "tech",
+      "sort_name": "Tecnología"
+    },
+    "meta_category": {
+      "id": 292,
+      "shortname": "tech",
+      "name": "Tecnología",
+      "sort_name": "Tecnología",
+      "photo": {
+        "id": 450131949,
+        "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "category_ids": [
+        34
+      ]
+    }
+  },
+  {
+    "score": 1.0,
+    "id": 19008258,
+    "name": "Mundo Lingo Lima | Free Language Exchange Meetup",
+    "status": "active",
+    "link": "https://www.meetup.com/es/Mundo-Lingo-Lima/",
+    "urlname": "Mundo-Lingo-Lima",
+    "description": "<p>Mundo Lingo is a sociable and completely free new way to practice another language in Lima and make local friends as much locals as tourists.&nbsp;</p>\n<p><b>\u2022&nbsp;We organize two weekly events: Every Monday 7:30pm @ Houlihan's Irish Bar and every Thursday 8:00pm at Eka Bar.<br></b></p>\n<p><b>How does it work? </b>Every participant is given a selection of flag-stickers to stick on their chest. These flags represent your languages and go in order of ability from native at the top to weakest at the bottom - Easy! We give you one piece of advice: \"Stay standing and only sit down for a private conversation\".&nbsp;</p>\n<p><b>Why? </b>Because if you stand it's easier for people to catch your eye and come and talk to you, and visa versa. It allows people to move and flow from group to group in a way you just can't achieve sitting down.&nbsp; </p>\n<p><b>Who are we? </b>We are people of all nationalities and ages. People from all kinds of amazing backgrounds speaking all sorts of different languages from beginner to advanced. There are no limits and nobody is exempt. We get together for a good night, practice languages, make friends and have a nice time. In any one event you might hear people having conversations in over a dozen different languages!&nbsp;</p>\n<p><b>How many people go?</b>&nbsp;We usually expect 50 people per event. Most of our participants are not members of MeetUp so don't be put off by low numbers here, we're a well established event.</p>\n<p><b>People look young and pretty in the photos, am I too old? </b>Nah! We just have really good photographers. This event is for all ages. The majority are 25 to 40 but we get plenty of people from outside those parameters too.&nbsp;</p>\n<p>You can visit our website which has information on all of our cities and events: <br><b><a href=\"http://www.mundolingo.org\" class=\"linkified\">http://www.mundolingo.org</a> <br></b></p>\n<p>or our Mundo Lingo Lima Facebook Group: <b> <br></b></p>\n<p><b><a href=\"https://www.facebook.com/groups/ML.Lima/\">https://www.facebook.com/groups/ML.Lima/</a> <br></b></p>\n<p><b><i>The bottom line: </i></b>It\u2019s for all levels and nationalities and its completely free. <b>Come check us out!</b></p>",
+    "created": 1444321314000,
+    "city": "Lima",
+    "untranslated_city": "Lima",
+    "country": "PE",
+    "localized_country_name": "Perú",
+    "localized_location": "Lima, Perú",
+    "state": "",
+    "join_mode": "open",
+    "visibility": "public",
+    "lat": -12.07,
+    "lon": -77.05,
+    "members": 2206,
+    "organizer": {
+      "id": 259256665,
+      "name": "Benji Moreira",
+      "bio": "",
+      "photo": {
+        "id": 279111815,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/c/a/6/7/highres_279111815.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/c/a/6/7/member_279111815.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/c/a/6/7/thumb_279111815.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      }
+    },
+    "who": "Mundo Linguists",
+    "group_photo": {
+      "id": 442816770,
+      "highres_link": "https://secure.meetupstatic.com/photos/event/4/1/8/2/highres_442816770.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/4/1/8/2/600_442816770.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/4/1/8/2/thumb_442816770.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "key_photo": {
+      "id": 469423297,
+      "highres_link": "https://secure.meetupstatic.com/photos/event/a/9/2/1/highres_469423297.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/a/9/2/1/600_469423297.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/a/9/2/1/thumb_469423297.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "timezone": "America/Lima",
+    "next_event": {
+      "id": "xpzbhqyxpbmc",
+      "name": "Mundo Lingo Language Social",
+      "yes_rsvp_count": 8,
+      "time": 1543539600000,
+      "utc_offset": -18000000
+    },
+    "category": {
+      "id": 16,
+      "name": "Idiomas e identidad cultural",
+      "shortname": "language",
+      "sort_name": "Idiomas e identidad cultural"
+    },
+    "meta_category": {
+      "id": 212,
+      "shortname": "language",
+      "name": "Idiomas y cultura",
+      "sort_name": "Idiomas y cultura",
+      "photo": {
+        "id": 450131939,
+        "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/highres_450131939.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/600_450131939.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/thumb_450131939.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "category_ids": [
+        16
+      ]
+    }
+  },
+  {
+    "score": 1.0,
+    "id": 18180234,
+    "name": "Lab San Isidro",
+    "status": "active",
+    "link": "https://www.meetup.com/es/LabSanIsidro/",
+    "urlname": "LabSanIsidro",
+    "description": "<p>Bienvenido a Lab San Isidro, iniciativa del Programa de Innovación y Gobierno Abierto de la Municipalidad de San Isidro. Nuestro objetivo es promover la innovación abierta, contribuir al ecosistema de innovación y emprendimiento y mostrar al mundo el gran talento que tenemos en el Perú en las diversas comunidades de desarrolladores y creativos.</p>\n<p>¿Tienes una startup? ¿Has creado una solución innovadora? ¿Tienes un producto que quieres que conozcamos? ¿Quieres ofrecer soluciones o servicios para el programa San Isidro Smart City?&nbsp;</p>\n<p>Escríbenos a innovacion@munisanisidro.gob.pe</p>\n<p>Además todos los meses tenemos actividades para ti. Visítanos en:</p>\n<p>Facebook.com/labsanisidro <br></p>\n<p><a href=\"http://msi.gob.pe/portal/innovacion/\" class=\"linkified\">http://msi.gob.pe/portal/innovacion/</a> <br></p>\n<p> <br></p>\n<p> <br></p>",
+    "created": 1415672308000,
+    "city": "Lima",
+    "untranslated_city": "Lima",
+    "country": "PE",
+    "localized_country_name": "Perú",
+    "localized_location": "Lima, Perú",
+    "state": "",
+    "join_mode": "open",
+    "visibility": "public",
+    "lat": -12.07,
+    "lon": -77.05,
+    "members": 5581,
+    "organizer": {
+      "id": 171839182,
+      "name": "Jimena Sanchez Velarde",
+      "bio": "",
+      "photo": {
+        "id": 227678202,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/9/5/3/a/highres_227678202.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/9/5/3/a/member_227678202.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/9/5/3/a/thumb_227678202.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      }
+    },
+    "who": "Lab San Isidro",
+    "group_photo": {
+      "id": 452284227,
+      "highres_link": "https://secure.meetupstatic.com/photos/event/1/0/8/3/highres_452284227.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/1/0/8/3/600_452284227.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/1/0/8/3/thumb_452284227.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "key_photo": {
+      "id": 467492380,
+      "highres_link": "https://secure.meetupstatic.com/photos/event/7/e/7/c/highres_467492380.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/7/e/7/c/600_467492380.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/7/e/7/c/thumb_467492380.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "timezone": "America/Lima",
+    "category": {
+      "id": 34,
+      "name": "Tecnología",
+      "shortname": "tech",
+      "sort_name": "Tecnología"
+    },
+    "meta_category": {
+      "id": 292,
+      "shortname": "tech",
+      "name": "Tecnología",
+      "sort_name": "Tecnología",
+      "photo": {
+        "id": 450131949,
+        "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "category_ids": [
+        34
+      ]
+    }
+  }
+]

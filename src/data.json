@@ -5,7 +5,7 @@
             "title": "title",
             "description": "description",
             "cover": {
-                "type": "video",
+                "type": "image",
                 "origin": "youtube",
                 "id": "FJvlEtoFPKw"
             },
